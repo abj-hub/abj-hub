@@ -28,6 +28,7 @@ Feel free to explore my GitHub repositories for more projects and code examples.
 ## Let's Connect
 
 - 📫 You can reach me via [email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abadbinjaiyad@gmail.com).
+- 🔗 You can explore my Blogs [Website](https://wp.me/PbIfx2-n)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/abadbinjaiyad/).
 
 ## Fun Facts
