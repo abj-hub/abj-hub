@@ -21,7 +21,7 @@ I'm a passionate web developer who loves to create beautiful and functional webs
 Here are some of the projects I've worked on:
 
 - 🌐 [Project 1](https://abj-hub.github.io/My-Portfolio/): My portfolio webpage, crafted with HTML, CSS, and JavaScript, is a dynamic showcase of my skills and achievements. Featuring an appealing design, it includes sections for an introduction, project displays, skill highlights, a downloadable resume, and easy contact options. It's responsive and professionally optimized for a strong online presence.
-- 🚀 [Project 2](): Coming Soon!
+- 🚀 [Project 2](https://abadbinjaiyad.my.canva.site): My professional Portfolio Responsive Webpage.
 
 Feel free to explore my GitHub repositories for more projects and code examples.
 
